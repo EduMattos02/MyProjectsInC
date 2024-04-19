@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1713528353 source:c:\users\eduga\onedrive\Área de trabalho\project c 1\tedavaliação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<time.h>
+
